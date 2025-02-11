@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1608434407 source:c:\users\mubas\desktop\catch the egg\catch the egg.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1608313251 c:\users\mubas\desktop\catch the egg\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1603541456 c:\users\mubas\desktop\catch the egg\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603541456 c:\users\mubas\desktop\catch the egg\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607330192 source:c:\users\mubas\desktop\igraphics-master\assignment\timer.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1604742777 c:\users\mubas\desktop\igraphics-master\assignment\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1607883633 source:c:\users\mubas\desktop\catch the egg\timer.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1607670283 source:c:\users\mubas\desktop\catch the egg\score.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1607534514 source:c:\users\mubas\desktop\catch the egg\catch-the-egg (1).cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1604742231 c:\users\mubas\desktop\catch the egg\opengl\include\gl.h
+
+1608436566 source:c:\users\mubas\desktop\1905088\catch the egg.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1608313251 c:\users\mubas\desktop\1905088\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1603541456 c:\users\mubas\desktop\1905088\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603541456 c:\users\mubas\desktop\1905088\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608534048 source:c:\users\mubas\desktop\igraphics-master\catch the egg\catch the egg.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1608313251 c:\users\mubas\desktop\igraphics-master\catch the egg\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1603541456 c:\users\mubas\desktop\igraphics-master\catch the egg\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603541456 c:\users\mubas\desktop\igraphics-master\catch the egg\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
